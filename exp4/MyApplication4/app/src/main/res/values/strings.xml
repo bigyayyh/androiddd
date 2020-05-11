@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">y Application4</string>
+    <string name="edit_url_hint">输入网址</string>
+    <string name="btn_browse">点击访问</string>
+</resources>
